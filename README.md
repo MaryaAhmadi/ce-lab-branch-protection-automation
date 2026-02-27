@@ -3,6 +3,22 @@
 **Cloud Engineering Bootcamp - Week 5, Day 2**  
 **Module:** Cloud Automation & CI/CD
 
+## Start Here: Fork, Clone, and Submit
+
+You will complete this lab by working in **your own fork** of the lab repository and submitting a **Pull Request (PR)**.
+
+1. **Fork the lab repository** to your GitHub account.
+2. **Clone your fork** locally:
+   ```bash
+   git clone https://github.com/<your-github-username>/ce-lab-branch-protection-automation.git
+   cd ce-lab-branch-protection-automation
+   ```
+3. **Follow all instructions below** and save your work in this repo (files, screenshots, and notes).
+4. **When finished, submit your work:**
+   - `git add` → `git commit` → `git push`
+   - Open a **Pull Request** from your fork back to the original lab repo
+   - Copy the **PR URL** and paste it into the **Lab Submission** field in the Student Portal
+
 ## 📋 Lab Overview
 
 Configure branch protection rules and automated PR workflows to enforce code quality, security, and review standards before merging changes.
@@ -75,4 +91,6 @@ ce-lab-branch-protection-automation/
 
 ## 🚀 Submission
 
-Submit your repository URL through the course platform.
+**Reminder:** After pushing your work and opening a PR:
+- Copy the **PR URL**
+- Paste it into the **Lab Submission** field in the Student Portal
